@@ -1,4 +1,6 @@
 Hello, this is file for testing
 This is feature.
-This is from bug-fix branch
+
+
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
