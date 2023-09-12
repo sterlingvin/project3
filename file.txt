@@ -1,4 +1,6 @@
 Hello, this is file for testing
 This is feature.
-iThis is from bug-fix branch
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
